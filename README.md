@@ -2,7 +2,7 @@
 Visual Studio C# ta yapılmış Basit Mayin Tarlasi
 
 
-// Basit mayın tarlası
+            // Basit mayın tarlası
             // 0 0 0 
             // 0 0 0 
             // 0 0 0
